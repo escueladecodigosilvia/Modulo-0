@@ -1,0 +1,9 @@
+1.- Explicar cómo funcionan los permisos de los archivos.
+    R=
+    PERMISO DE LECTURA:
+    Aquí si se puede ver el contenido de los archivos.
+    PERMISO DE ESCRITURA:
+    Se puede modifficar el contenido de los archivos o borrarlo. Y también se 
+    pueden cambiar los permisos del archivo.
+    PERMISO DE EJECUCIÓN:
+    Aquí si se puede ejecutar el contenido del archivo. 

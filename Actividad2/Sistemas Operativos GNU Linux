@@ -1,0 +1,107 @@
+
+
+¿QUÉ SON LOS SISTEMAS OPERATIVOS GNU/LINUX?
+
+En 1971, cuando comenzó su carrera en el MIT, Richard Stallman inició el proyecto GNU, y
+su objetivo era construir un sistema operativo compatible con Unix pero totalmente "li-
+bre", cuyo código fuente estuviera disponible para todo aquel que quisiera utilizarlo, 
+modificarlo o estudiarlo.
+En 1991 Linus Torvalds programó Linux, un núcleo similar a Unix, y en 1992 lo convirtió 
+en software libre. La combinación de Linux con el sistema GNU, que ya estaba prácticamen-
+te completo, formó un sistema operativo completo: el sistema GNU/Linux. 
+La palabra «libre» en «software libre» se refiere a libertad, no a precio. Se puede o
+no pagar un precio por obtener software de GNU. De cualquier manera, una vez que se 
+obtiene el software, se tienen cuatro libertades específicas para usarlo: La libertad de 
+ejecutar el programa como se desee; la libertad de copiar el programa y dárselo a amigos 
+o compañeros de trabajo; la libertad de cambiar el programa como se desee mediante el 
+acceso completo al código fuente; la libertad de distribuir una versión mejorada, ayudan-
+do así a construir la comunidad (si se redistribuye software de GNU, se puede cobrar una 
+tarifa por el acto físico de efectuar la copia, o bien regalar copias). El objetivo final 
+es el de proporcionar software libre para realizar todas las tareas que los usuarios de 
+ordenadores quieran llevar a cabo, y lograr así que el software privativo sea cosa del 
+pasado.
+Los Sistemas Operativos GNU/Linux son una variante del sistema operativo que incorpora 
+determinados paquetes de software para satisfacer las necesidades de un grupo específico 
+de usuarios. Esto da origen a sistemas operativos más adecuados para su uso hogareño, em-
+presarial, o en servidores. No existe un sistema operativo mejor que otro en términos ge-
+erales. Todos pueden contar con pequeños detalles que otro podria no tener. Asi es que el
+mejor sistema operativo de GNU/Linux es el que más se adapte a nuestras necesidades y gus-
+tos personales. En general, se puede decir que Debian y CentOS gozan de gran popularidad 
+en lo que a servidores se refiere, mientras que Ubuntu, Linux Mint, Arch Linux y Fedora
+suelen ser las opciones preferidas para el escritorio. A la fecha, se habla de la existen-
+cia de aproximadamente 587 sistemas operativos GNU/Linux con diferentes enfoques, por 
+ejemplo: para iniciarse en GNU/Linux, para usuarios más avanzados, para cuidar la privaci-
+dad, para ordenadores viejos y poco potentes, otros específicos para hobbies, también 
+algunos diseñados para Raspberry Pi, etc. A continuación se hace una breve explicación de 
+algunos de los más usados:
+
+
+1. UBUNTU:
+Ubuntu desde hace años es una de las grandes referencias destinadas a los usuarios prime-
+rizos.es uno de los sistemas operativos basados en Linux más utilizado en la actualidad,
+algo que ha conseguido gracias a su rendimiento, a la posibilidad de descargarse gratis y
+tratarse de software libre que cualquiera puede modificar para mejorar su código, algo que
+ha propiciado la aparición de otros entornos gráficos como Kubuntu o Xubuntu entre muchos
+otros.
+
+2. DEBIAN:
+Debian es una de las distribuciones más importantes del ecosistema Linux, que destaca por 
+su estabilidad, es una distribución de software libre para sistemas de ordenadores con di-
+ferentes arquitecturas de hardware. Debido a que el paquete completo hace uso, por una 
+parte, del núcleo de Linux desarrollado por Linus Torvalds y, por otra, de las herramien
+tas básicas del sistema GNU, también es conocido como Debian GNU/Linux. 
+
+3. FEDORA
+Fedora es una distribución desarrollada y mantenida por una gran comunidad formada por 
+desarrolladores, ingenieros y diseñadores repartidos por todo el mundo. Esta es, a día de 
+hoy, la novena distribución más buscada en todo el mundo, y es que, tanto esta distro, co-
+mo cualquiera basada en ella, ofrecen a los usuarios un excelente rendimiento y una gran 
+estabilidad, tanto para usarla en casa como en entornos profesionales.
+
+4. OpenSUSE:
+openSUSE es una distribución de Linux desarrollada por la compañía SUSE, la compañía mas 
+veterana de Linux que se formo un año después de que Linux Torvalds anunciara este sistema 
+operativo. Esta distro recibió un cambio importante durante el 2015, cuando decidió unirse 
+a SUSE Linux Enterprise (SLE) para que los usuarios tuviesen una distribución que compar-
+tiera ‘ADN’ con la distribución para servidores, muy similar a CentOS y Ubuntu.
+
+5. MX lINUX:
+De la unión de antiX y las antiguas comunidades MEPIS, nace la muy llamativa MX Linux, la 
+cual engrana las mejores herramientas y cualidades de cada distro, sobre una base de Debian 
+estable. Se trata de un sistema operativo de peso mediano, diseñado para combinar un escri-
+torio elegante y ligero como XFCE con una configuración sencilla, alta estabilidad y rendi-
+miento sólido.
+
+6. ANTERGOS:
+Antergos contiene paquetes muy interesantes. En los repositorios de Antergos encontramos 
+por ejemplo, el paquete ttf-google-fonts, que contiene todas las fuentes tipográficas de 
+Google Webfont. Para los que diseñamos sitios webs esto resulta muy útil ya que no necesi-
+tamos enlazar nuestros proyectos con el servicio de Google por lo menos en la etapa inicial. 
+También hay otras tipografías.
+
+7. LINUX MINT:
+En los repositorios de Antergos encontramos por ejemplo, el paquete ttf-google-fonts, que 
+contiene todas las fuentes tipográficas de Google Webfont. Para los que diseñamos sitios 
+webs esto resulta muy útil ya que no necesitamos enlazar nuestros proyectos con el servicio 
+de Google por lo menos en la etapa inicial. También hay otras tipografías.
+
+8. MANJARO:
+Manjaro Linux es una distribución basada en Arch Linux orientada al escritorio y amigable 
+con el usuario. Algunas de sus características más destacadas incluyen un proceso de insta-
+lación intuitivo, autodetección de equipo físico, "scripts" especiales del bash para manejar 
+controladores gráficos y opciones extras de configuración del escritorio.
+
+9. SOLUS:
+Solus, anteriormente llamada “Evolve OS”, es una distribución Linux independiente creada y 
+desarro-llada por Ikey Doherty. Es un sistema operativo libre para computadores personales y 
+enfocado en la facilidad de uso. Utiliza el modelo de desarrollo rolling release bajo el eslo-
+gan: “Install Today. Updates Forever".
+
+10. ELEMENTARY:
+Elementary OS es una distro Linux basada en Debian cuyo principal objetivo es cuidar hasta 
+el más mínimo detalle la apariencia de la misma para hacerla lo más sencilla de usar a todos 
+los usuarios. Esta distro comenzó sus andadas dentro de Linux como un simple pack de iconos, 
+sin embargo, el concepto gustó a muchos desarrolladores que en poco tiempo se pusieron manos 
+a la obra para crear la distro que conocemos hoy en día. Una de las que mejor imitan la apa-
+riencia de macOS.
+
